@@ -11,21 +11,4 @@ Sure, I can explain this piece of code. It is written in **JavaScript**, a scrip
 
 The purpose of this code is to create a simple **accordion** effect, where clicking on a panel expands it and collapses the other panels. You can see a live demo of this code [here].
 
-I hope this explanation was helpful. If you have any questions, feel free to ask me. 😊
-
-¹: [What is JavaScript? - Learn web development | MDN](^2^)
-²: [NodeList - Web APIs | MDN]
-³: [Arrow function expressions - JavaScript | MDN]
-: [Element.classList - Web APIs | MDN]
-: [Accordion with JavaScript]
-: [https://developer.mozilla.org/en-US/docs/Web/API/NodeList](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
-: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-: [https://developer.mozilla.org/en-US/docs/Web/API/Element/classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
-: [https://codepen.io/pen/?template=LYLjyQO](https://codepen.io/pen/?template=LYLjyQO).
-
-Source: Conversation with Bing, 12/11/2023
-(1) JavaScript Tutorial - W3Schools. https://www.w3schools.com/Js/.
-(2) What is JavaScript? - Learn web development | MDN - MDN Web Docs. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript.
-(3) What is JavaScript - W3Schools. https://www.w3schools.com/whatis/whatis_js.asp.
-(4) What is JavaScript? - Learn web development | MDN - MDN Web Docs. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript.
-(5) Getty Images. https://www.gettyimages.com/detail/photo/program-code-javascript-php-html-css-of-site-web-royalty-free-image/1202250586.
+.
